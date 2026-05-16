@@ -139,7 +139,7 @@
                       className: "hidden items-center gap-2 sm:flex",
                       children: [
                         (0, a.jsx)("a", {
-                          href: "https://x.com",
+                          href: "https://x.com/BabyAsteroid_X",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "X",
@@ -148,7 +148,7 @@
                           children: (0, a.jsx)(d.LCd, { className: "h-4 w-4" }),
                         }),
                         (0, a.jsx)("a", {
-                          href: "https://t.me",
+                          href: "https://t.me/babyasteroidoneth",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "Telegram",
@@ -157,7 +157,7 @@
                           children: (0, a.jsx)(d.Ww5, { className: "h-4 w-4" }),
                         }),
                         (0, a.jsx)("a", {
-                          href: "https://dexscreener.com/ethereum/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                          href: "https://dexscreener.com/ethereum/0xComingSoon",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "DexScreener",
@@ -172,7 +172,7 @@
                           }),
                         }),
                         (0, a.jsx)("a", {
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "DexTools",
@@ -236,7 +236,7 @@
                         "mt-3 flex flex-wrap items-center gap-3 border-t-2 border-[#b67f37]/20 pt-4",
                       children: [
                         (0, a.jsx)("a", {
-                          href: "https://x.com",
+                          href: "https://x.com/BabyAsteroid_X",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "X",
@@ -245,7 +245,7 @@
                           children: (0, a.jsx)(d.LCd, { className: "w-5 h-5" }),
                         }),
                         (0, a.jsx)("a", {
-                          href: "https://t.me",
+                          href: "https://t.me/babyasteroidoneth",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "Telegram",
@@ -254,7 +254,7 @@
                           children: (0, a.jsx)(d.Ww5, { className: "w-5 h-5" }),
                         }),
                         (0, a.jsx)("a", {
-                          href: "https://dexscreener.com/ethereum/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                          href: "https://dexscreener.com/ethereum/0xComingSoon",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "DexScreener",
@@ -269,7 +269,7 @@
                           }),
                         }),
                         (0, a.jsx)("a", {
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "DexTools",
@@ -396,7 +396,7 @@
                           children: [
                             (0, a.jsx)("li", {
                               children: (0, a.jsx)("a", {
-                                href: "https://dexscreener.com/ethereum/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                                href: "https://dexscreener.com/ethereum/0xComingSoon",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className:
@@ -429,7 +429,7 @@
                           className: "flex flex-wrap gap-4",
                           children: [
                             (0, a.jsx)("a", {
-                              href: "https://x.com",
+                              href: "https://x.com/BabyAsteroid_X",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -440,7 +440,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://t.me",
+                              href: "https://t.me/babyasteroidoneth",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -451,7 +451,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://dexscreener.com/ethereum/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                              href: "https://dexscreener.com/ethereum/0xComingSoon",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -466,7 +466,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://www.dextools.io/app/en/ether/pair-explorer/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                              href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -671,7 +671,7 @@
                               "flex flex-wrap items-center gap-3 md:gap-4",
                             children: [
                               (0, a.jsx)("a", {
-                                href: "https://x.com",
+                                href: "https://x.com/BabyAsteroid_X",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 "aria-label": "X",
@@ -682,7 +682,7 @@
                                 }),
                               }),
                               (0, a.jsx)("a", {
-                                href: "https://t.me",
+                                href: "https://t.me/babyasteroidoneth",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 "aria-label": "Telegram",
@@ -693,7 +693,7 @@
                                 }),
                               }),
                               (0, a.jsx)("a", {
-                                href: "https://dexscreener.com/ethereum/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                                href: "https://dexscreener.com/ethereum/0xComingSoon",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 "aria-label": "DexScreener",
@@ -708,7 +708,7 @@
                                 }),
                               }),
                               (0, a.jsx)("a", {
-                                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x45D5AeC45a87a12B3f3C9029DA99608D153e6453",
+                                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 "aria-label": "DexTools",
