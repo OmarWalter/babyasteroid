@@ -406,7 +406,7 @@
                             }),
                             (0, a.jsx)("li", {
                               children: (0, a.jsx)("a", {
-                                href: "https://app.uniswap.org/#/swap?outputCurrency=0xd7A7394294f4687966C60A1F68920f29688BF546",
+                                href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className:
@@ -539,7 +539,7 @@
       }
       var b = r(2442),
         g = r(6224);
-      let v = "0xd7A7394294f4687966C60A1F68920f29688BF546";
+      let v = "0xComingSoon";
       function w() {
         let e = (0, s.useRef)(null),
           [t, r] = (0, s.useState)(0),
@@ -1301,7 +1301,7 @@
                 (0, a.jsx)("div", {
                   className: "scroll-reveal mt-12 text-center",
                   children: (0, a.jsxs)("a", {
-                    href: "https://app.uniswap.org/#/swap?outputCurrency=0xd7A7394294f4687966C60A1F68920f29688BF546",
+                    href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className:
